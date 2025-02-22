@@ -28,6 +28,10 @@ main{
     gap: 1rem;
 }
 
+#container > main > figure > figcaption > h2{
+    color:#120323;
+}
+
 figure img{
     border: solid 5px red;
 }
@@ -39,7 +43,7 @@ aside {
 }
 
 footer{
-    padding:20px;
+    padding:2rem;
     text-align:center;
     color:#f9f9f9;
     margin-top:10px;
