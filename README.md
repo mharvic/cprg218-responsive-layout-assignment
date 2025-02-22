@@ -5,5 +5,4 @@ Responsive web design means creating web pages that automatically adjust to diff
 
 ## The full instructions for this assignment can be found in Brightspace
 
-##
 This project includes code, HTML, and images provided by <a href="https://github.com/DanStephenson/cprg218-responsive-layout-assignment">Dan Stepheson<a/>.
